@@ -9,3 +9,19 @@ Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é ac
 É uma seção que engloba conteúdos relacionados ao conteúdo principal, como artigos relacionados, biografia do autor e publicidade. Normalmente são representadas como barras laterais.
 
 hiperlink: <a> o target permite abrir outra aba usando o valor _blank
+textos e links
+
+<p> suporta video, imagens, códigos</p>
+
+<a href=seu@email.com> nome do link
+
+<a target=_blank> vai abrir em nova aba.
+
+<img src="img/avatar.jpg">
+<img alt="foto de john"> (descricao de foto)
+ <img height="300px" width="500px" src="mil.jpg" alt="mil"></img>
+
+Listas:
+<ul> ordem dos itens nao é importante
+<ol> a ordem é importante
+<li> item da lista

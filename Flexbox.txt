@@ -1,0 +1,26 @@
+flex container: flag q possui itens filhos
+Display flex: transforma os filhos direto em flex itens.
+Display: pode usar em div, h1,a. 
+
+flex-items, pode ser flex display. sublistas. 
+
+div.item*3 (aperta tab e gera 3 linhas de código)
+]
+
+flex container: padrão horizontal.
+row: da esquerd p direita
+column: de cima para baixo.
+flex: agrupa o item em todo o container
+
+nowrap: nao quebra de linha]
+wrap: permite a quebra de linha, quando quebra manda pra linha de baixo
+mas gera problema de espaçamento no final
+
+align items: nao precisa saber da altura do container.
+
+flex-grow: nao funciona se no container tiver justify-content.
+somente numero
+
+align-self: alinhamento individual do item, diferente do padrão. O container nao pode ter um align item definido.
+
+
