@@ -1,6 +1,6 @@
 git clone > clonar repositorio
 git status (ver as mudanças)
-git add* (add no local)
+git add --all (add no local)
 git commit -m "mensagem" (comentario)
 tem um comit local, se quiser mandar pra numve ->
 git push origin main (master talvez) (envia para o github)
