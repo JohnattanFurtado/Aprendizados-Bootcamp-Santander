@@ -1,5 +1,8 @@
 flex container: flag q possui itens filhos
 Display flex: transforma os filhos direto em flex itens.
+display flex: ele vira um flex container > container onde todos os itens ficam em linha, ocupando todo os espaços.
+se passar align center: na vertical ele vai ficar no centro (eixo x)
+justify content: alinha no eixo y
 Display: pode usar em div, h1,a. 
 
 flex-items, pode ser flex display. sublistas. 
