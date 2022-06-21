@@ -127,3 +127,34 @@ body{
 .app-download:nth-child(2){
     background-image: url('./img/googleplay-button.png');
 }
+/* IPADmedia queries - max width - eu quero que se a tela tiver ate isso, faça isso, se nao, faça o de cima*/
+
+@media(max-width: 1024px){
+    .instagram-wrapper{
+        width: 90%;
+
+    }
+     
+}
+/*celular*/
+@media(max-width: 650px){
+
+    body{
+        background-color: white;
+    }
+    .instagram-wrapper{
+        width: 90%;
+    }
+
+    .instagram-phone{
+        display: none;
+    }
+
+    .instagram-continue{
+        width: 100%;
+    }
+    
+    .group{
+        border: 1px solid transparent;
+    }
+}
