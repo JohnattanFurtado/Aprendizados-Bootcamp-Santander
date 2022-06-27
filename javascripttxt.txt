@@ -27,3 +27,9 @@ arvores de dependencia DOM.
 tagname: é um h1, p, html
 
 eventos: propriedades do javascript.
+
+funções.
+1) declare a função
+function NOMEDAFUNCAO(parametro) {
+	instruções
+}

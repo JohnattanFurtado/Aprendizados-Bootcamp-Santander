@@ -1,24 +1,13 @@
-var currentNumberWrapper = document.getElementById('currentNumber');
-var currentNumber = 0;
-
-function increment (){
-currentNumber = currentNumber + 1;
-currentNumberWrapper.innerHTML = currentNumber;
+function par(a, b){
+    
+var soma = a + b;
+if (soma>10){
+    return 'maior que 10'
+} else {
+    return 'menor que 10'
 }
 
-function decrement (){
-    currentNumber = currentNumber - 1;
-    currentNumberWrapper.innerHTML = currentNumber;
-    }
-function zerar(){
-    currentNumber = currentNumber = 0;
-currentNumberWrapper.innerHTML = currentNumber;
 }
 
-var numero1 = 1;
-var numero2 = 2;
-
-function numero1 = numero2;
-
-return function
-
+let soma = par(2, 9)
+console.log(soma)
