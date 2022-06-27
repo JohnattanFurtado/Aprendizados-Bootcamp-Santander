@@ -33,3 +33,11 @@ funções.
 function NOMEDAFUNCAO(parametro) {
 	instruções
 }
+
+array em java, muito muito útil no dia a dia.
+
+empty: chave vazia
+
+null: propositalmente o valor nao existe. Q seja falso, nulo,
+
+undefined: valor nao exite, nao declarado
