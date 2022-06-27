@@ -1,0 +1,50 @@
+function nome(parametros){
+	//instruções
+	return; //valor de retorno (para a função)
+}
+a variavel so vale dentro da função.
+
+funcao anonima
+const soma = function (a, b){
+	return a+ b;
+}
+soma(1, 2) // 3
+soma(5, 4) // 9
+
+spread: transforma array em objeto //usa qnd chama funcao
+rest: combinado argumentos em um array // usa qnd declara fncao 
+
+LOOPS
+FUNCOES (IF/ELSE): 
+if= condicao;
+resultado=fase = declaracao 1, ocorre caso a condicao seja verdadeira;
+resultado=true: ocorre caso a declaracao seja falsta
+function numeroPositivo(num{
+	let resultado;
+	
+	if (num<0){
+	  resultado = false;
+	  } else {
+	   resultado = true;
+}
+
+	return resultado;
+}
+numeroPositivo(2)
+
+for = arrays e strings
+for (let i = 0; 
+
+for in - usa em propriedades qe nao sao numeros
+for of - strings e arrays
+
+while -> excecuta ate que a funcao seja falsa (enquanto)
+quando uma funcao esta dentro de um objeto chamamaos ela de metodo. fullName é um metodo.
+exemplo:
+const pessoa = {
+	firstName: "André",
+	lastName: "Silva",
+	id	  : 1,
+	fullName: function(){
+return this.firsName + " " + this.lastName;
+},
