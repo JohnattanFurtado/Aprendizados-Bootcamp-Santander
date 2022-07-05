@@ -1,0 +1,16 @@
+adicionar, ler e deletar
+
+const myMap = new Map()
+
+myMap.set ('apple', 'fruit');
+apple é chave, o valor é fruit
+
+checar o valor de apple myMap.get
+
+deletar myMap.delete
+
+map x objeto
+objeto so string
+map pode ser nro, etc.
+map possui length
+
