@@ -1,0 +1,13 @@
+orientação a objetos:
+paradigmas = sao formas de programar.
+na orientação a objetos, os programas sao objetos que possuem propriedades:
+Pessoa: tem varias propriedades (altura, peso, etc)
+pilares-abstracao: processo de abstrair e deixar o problema mais simples.
+herança: herdam objetos e metodos dos objetos pais. mas tb tem suas proprias caracteristicas
+encapsulamento: cada classse tem proprie e metodos independentes do restante do codigo.
+polimorifsmo: podem herdar da classse pai, mas se comportam de forma diferente.
+
+prototipo e classes OOJS
+prototipos: sao esqueleto de todos os objetos. 
+nao possui classes nativas, sao objetos e a herança se da por prototipos.
+construtor > controi a classe, e se passar parametros,
