@@ -1,0 +1,21 @@
+modulos
+sao arquivos javascript
+mas exportam e importam informações de outros arquivos do mesmo tipo.
+vantagem: organização do código.
+1 pra funcao, outro para manipular, outro para variaveis, 
+da pra compartilhar variaveis em escopo diferente.
+ajuda nas dependencias dos arquivos.
+
+como exportar:
+named exports > mais de uma coisa de um arquivo
+
+default: so poder ter 1 por arquivo, sera o retorno padrao. vem so aquela parte do arquivo.
+
+como importar:
+
+* as (importa tudo do arquivo)
+
+vinculando ao html.
+script tyme = module.
+
+AS * INFO (UTILIZA APELIDO)

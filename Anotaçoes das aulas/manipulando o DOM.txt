@@ -1,0 +1,35 @@
+Dom: padrão de como acessa e modifica uma página web (html). Todo browser, dentro do navegador tem o documento, onde possui todos os nós: Documento > html > head, body...
+
+
+Dom x Bom: browser objetc model. Window > documento, historia, localizacao, tela, navegador. O DOM está dentro do BOM (window)
+
+Elemtentos: Manipulando.
+body (tag) (pq nao tem classees nem id)
+id
+classe
+
+create element - cria novo elemento html
+removechild - remove um elemento
+appendchild - add um elemento
+replacechild(nem, old) - substitui um elemento
+
+Estilos:
+
+
+Eventos: ação que o usuario faz numa pagina da web. 
+eventos do mouse: 
+mouseover: hover (mudar a cor)
+mouseout
+
+eventos de clique:
+click
+dbclick: click duplo
+
+eventos de atualização: quando a pagina terminou de carregar quero que alguma coisa aconteça:
+change:
+load:
+
+acionar eventos.
+addEventListener -> coloca no codigo javascript, seleciona o elemento
+outra forma é dentro do html > onclick
+no html fica on na frente.

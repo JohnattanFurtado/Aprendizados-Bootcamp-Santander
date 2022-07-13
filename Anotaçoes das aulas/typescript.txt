@@ -1,0 +1,4 @@
+typescript
+
+types: defina estrutura de dados para fazer a validação,
+interfaces: sao contratos para implementar as classes.
