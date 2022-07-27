@@ -1,8 +1,0 @@
-set (tem diferença com array).
-
-armazenam valores unicos.
-add 9adicionar
-has ver
-delete deletar
-
-set

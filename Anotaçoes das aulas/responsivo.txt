@@ -1,4 +1,0 @@
-responsivel:
-
-criado item mobile:
-transformar linha para colunas.
